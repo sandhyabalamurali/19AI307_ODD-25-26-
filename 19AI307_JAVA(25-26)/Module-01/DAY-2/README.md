@@ -42,11 +42,11 @@ To write a Java program that uses conditional statements to determine the state 
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a Conditional Statements using Java
 Developed by: SANDHYA B N
 RegisterNumber:212222040144
-*/
+
 ```
 
 ## Sourcecode.java:
@@ -80,6 +80,7 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
 
 
 
