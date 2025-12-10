@@ -21,8 +21,8 @@ To write a Java program demonstrating Inheritance and Aggregation by creating su
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: ANN BLESSY PHILIPS
-RegisterNumber:212222040008
+Developed by: SANDHYA B N
+RegisterNumber:212222040144
 */
 ```
 
@@ -141,4 +141,5 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program demonstrating Inheritance and Aggregation using customer types with different discount calculations was successfully executed.
+
 
