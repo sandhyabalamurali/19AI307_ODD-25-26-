@@ -25,8 +25,8 @@ To write a Java program that demonstrates calling one method from another method
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: ANN BLESSY PHILIPS
-RegisterNumber:212222040008
+Developed by: SANDHYA B N
+RegisterNumber:212222040144
 */
 ```
 
@@ -62,4 +62,5 @@ public class Main
 
 ## RESULT:
 Thus, the Java program to calculate the cube of a number by calling the square method internally was successfully implemented and executed.
+
 
