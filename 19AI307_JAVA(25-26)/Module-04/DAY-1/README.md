@@ -21,8 +21,8 @@ To write a Java program to demonstrate NullPointerException when calling .toStri
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: ANN BLESSY PHILIPS
-RegisterNumber:212222040008
+Developed by: SANDHYA B N
+RegisterNumber:212222040144
 */
 ```
 
@@ -64,4 +64,5 @@ public class NullCheck
 
 ## RESULT:
 Thus, the program demonstrates that calling .toString() on a null object causes a NullPointerException, and the exception can be prevented using a try-catch block.
+
 
