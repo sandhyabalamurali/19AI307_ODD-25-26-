@@ -27,8 +27,8 @@ To write a Java program that demonstrates a Behavioral Pattern using the Factory
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: ANN BLESSY PHILIPS
-RegisterNumber:212222040008
+Developed by: SANDHYA B N
+RegisterNumber:212222040144
 */
 ```
 
@@ -110,4 +110,5 @@ public class Main {
 
 ## RESULT:
 Thus, the program demonstrating the Behavioral Pattern using Factory Method to generate different notification types was successfully implemented and executed.
+
 
