@@ -23,8 +23,8 @@ StrictJudge: WIN if diff ≥ 10, DRAW if < 10
  ```
 /*
 Program to implement a Interface using Java
-Developed by: ANN BLESSY PHILIPS
-RegisterNumber:212222040008
+Developed by: SANDHYA B N
+RegisterNumber:212222040144
 */
 ```
 
@@ -94,4 +94,5 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program demonstrating Interface implementation using different judging criteria was executed successfully.
+
 
