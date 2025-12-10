@@ -26,8 +26,8 @@ To write a Java program that implements the Factory Design Pattern to create and
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: ANN BLESSY PHILIPS
-RegisterNumber:212222040008
+Developed by: SANDHYA B N
+RegisterNumber:212222040144
 */
 ```
 
@@ -109,4 +109,5 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to simulate Shape Drawing using the Factory Design Pattern was successfully implemented and executed.
+
 
