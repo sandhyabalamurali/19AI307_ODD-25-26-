@@ -28,8 +28,8 @@ To write a Java program that demonstrates the concept of Class and Object using 
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: ANN BLESSY PHILIPS
-RegisterNumber:212222040008
+Developed by: SANDHYA B N
+RegisterNumber:212222040144
 */
 ```
 
@@ -79,4 +79,5 @@ class prog {
 ## RESULT:
 
 Thus, the Java program to implement a Class and Object using a Person class was successfully executed and verified.
+
 
