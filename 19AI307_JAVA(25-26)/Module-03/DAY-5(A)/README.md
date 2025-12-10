@@ -22,8 +22,8 @@ To write a Java program that demonstrates the use of an Inner Class and how it c
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: ANN BLESSY PHILIPS
-RegisterNumber:212222040008
+Developed by: SANDHYA B N
+RegisterNumber:212222040144
 */
 ```
 
@@ -56,4 +56,5 @@ public class OuterClass
 
 ## RESULT:
 Thus, the Java program to implement an Inner Class and access it from the Outer Class was successfully executed.
+
 
